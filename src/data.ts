@@ -5,19 +5,6 @@ export const news = [
             "name": "The Guardian"
         },
         "author": "Hannah Summers",
-        "title": "Father charged with rape made party to child’s care proceedings",
-        "description": "Court of appeal overrules decision to exclude man who allegedly conceived the boy with his niece through rapeA father without parental responsibility who has been charged with two counts of rape – and amid an allegation his son was conceived of rape – has won…",
-        "url": "https://www.theguardian.com/law/2023/jun/25/father-charged-with-made-party-to-childs-care-proceedings",
-        "urlToImage": "https://i.guim.co.uk/img/media/ae13ae808d53cb4abf3930315bfddd1a0c3f0466/0_112_1714_1028/master/1714.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c2f670abf41a56ecf0cea1ac4e6679f4",
-        "publishedAt": "2023-06-25T09:00:33Z",
-        "content": "A father without parental responsibility who has been charged with two counts of rape and amid an allegation his son was conceived of rape has won an appeal to be made party to care proceedings conce… [+9331 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "The Guardian"
-        },
-        "author": "Hannah Summers",
         "title": "New guidance aims to restrict use of unregulated psychologists as expert witnesses in court",
         "description": "Move aims to ensure only adequately trained professionals are used in trialsFamily judges who appoint unregulated psychologists as expert witnesses in the courts should issue a judgment to explain their decision, according to updated guidance designed to prot…",
         "url": "https://www.theguardian.com/law/2023/jun/25/new-guidance-aims-to-restrict-use-of-unregulated-psychologists-as-expert-witnesses-in-court",
@@ -895,6 +882,19 @@ export const news = [
         "urlToImage": "https://whyevolutionistrue.com/wp-content/uploads/2023/06/Screen-Shot-2023-06-25-at-6.36.22-AM.png",
         "publishedAt": "2023-06-25T17:00:09Z",
         "content": "There’s a new movement afoot for “citation justice” a form of affirmative action in which we should cite scientists who are marginalized as a way of boosting their careers.  I’m referring to citation… [+11481 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "The Guardian"
+        },
+        "author": "Hannah Summers",
+        "title": "Father charged with rape made party to child’s care proceedings",
+        "description": "Court of appeal overrules decision to exclude man who allegedly conceived the boy with his niece through rapeA father without parental responsibility who has been charged with two counts of rape – and amid an allegation his son was conceived of rape – has won…",
+        "url": "https://www.theguardian.com/law/2023/jun/25/father-charged-with-made-party-to-childs-care-proceedings",
+        "urlToImage": "https://i.guim.co.uk/img/media/ae13ae808d53cb4abf3930315bfddd1a0c3f0466/0_112_1714_1028/master/1714.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c2f670abf41a56ecf0cea1ac4e6679f4",
+        "publishedAt": "2023-06-25T09:00:33Z",
+        "content": "A father without parental responsibility who has been charged with two counts of rape and amid an allegation his son was conceived of rape has won an appeal to be made party to care proceedings conce… [+9331 chars]"
     },
     {
         "source": {
