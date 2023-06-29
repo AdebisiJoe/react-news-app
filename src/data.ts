@@ -1,19 +1,6 @@
 export const news = [
     {
         "source": {
-            "id": "google-news",
-            "name": "Google News"
-        },
-        "author": null,
-        "title": "Conservative former judge calls Trump support 'colossal political ... - Reuters.com",
-        "description": "Conservative former judge calls Trump support 'colossal political ...  Reuters.com",
-        "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMifGh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3dvcmxkL3VzL2NvbnNlcnZhdGl2ZS1mb3JtZXItanVkZ2UtY2FsbHMtdHJ1bXAtc3VwcG9ydC1jb2xvc3NhbC1wb2xpdGljYWwtbWlzY2FsY3VsYXRpb24tMjAyMy0wNi0yNS_SAQA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
-        "urlToImage": null,
-        "publishedAt": "2023-06-25T17:32:00Z",
-        "content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde… [+1131 chars]"
-    },
-    {
-        "source": {
             "id": null,
             "name": "The Guardian"
         },

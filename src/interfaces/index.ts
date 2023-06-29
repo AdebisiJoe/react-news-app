@@ -4,7 +4,7 @@ export type New = {
         name: string;
     };
     author: string;
-    title: string;
+    title: string| null;
     description: string;
     url: string;
     urlToImage: string | null;

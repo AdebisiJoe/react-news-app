@@ -1,6 +1,8 @@
 import useSWR from 'swr'
 import NewComponent from '../../components/New'
 import { New } from '../../interfaces'
+import Box from '@mui/material/Box';
+import Grid from '@mui/material/Grid';
 
 const fetcher = (url: string) => fetch(url).then((res) => res.json())
 
@@ -13,11 +15,18 @@ export default function News() {
   return (
     <div>
       <h2>News</h2>
-      <ul>
-        {data.map((p: New, i:number) => (
-          <NewComponent key={i} newItem={p} />
-        ))}
-      </ul>
+      <Box sx={{ flexGrow: 1 }}>
+        <Grid container spacing={2}>
+          <Grid item xs={12}>
+            <NewComponent newItem={data[0]} gridSize={6} />
+          </Grid>
+          {data.slice(1).map((p: New, i: number) => (
+           
+              <NewComponent newItem={p} gridSize={3} />
+           
+          ))}
+        </Grid>
+      </Box>
     </div>
   )
 }

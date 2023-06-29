@@ -1,5 +1,6 @@
 import { Inter } from 'next/font/google'
 import News from './news'
+import Box from '@mui/material/Box';
 
 const inter = Inter({ subsets: ['latin'] })
 
